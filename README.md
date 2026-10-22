@@ -1,10 +1,10 @@
-# Dmitry Andreyanov — AI Agent Systems Architect
+# Dmitry Andreyanov - AI Agent Systems Architect
 
 **Founder of Prizolov Lab · Creator of Agenomics™ and Agent Genome Mapping™**
 
 I design methodologies and architectures that make autonomous AI systems more measurable, predictable, and governable.
 
-My work focuses on **AI agent trust, behavioral evaluation, system architecture, and autonomous agent orchestration** — from defining how an agent should behave to evaluating its reliability and integrating it into practical systems.
+My work focuses on **AI agent trust, behavioral evaluation, system architecture, and autonomous agent orchestration** - from defining how an agent should behave to evaluating its reliability and integrating it into practical systems.
 
 **Mission:** Make autonomous AI measurable, predictable, and governable.
 
@@ -20,15 +20,15 @@ I develop frameworks that help move AI agents from opaque, difficult-to-predict 
 
 Моя работа связана с проектированием архитектур ИИ-систем и разработкой методологий, которые помогают оценивать поведение, предсказуемость и надежность автономных ИИ-агентов.
 
-Я развиваю подходы, объединяющие концептуальные модели, критерии оценки и программные инструменты — от описания поведенческих характеристик агента до построения систем оркестрации и автоматизации.
+Я развиваю подходы, объединяющие концептуальные модели, критерии оценки и программные инструменты - от описания поведенческих характеристик агента до построения систем оркестрации и автоматизации.
 
 ## Core Areas / Ключевые направления
 
-- **AI Agent Trust & Evaluation** — методологии оценки доверия, предсказуемости и совместимости ИИ-агентов.
-- **Agent Architecture** — проектирование архитектур автономных систем и моделей поведения.
-- **Agent Governance** — подходы к контролю, проверяемости и управляемости ИИ-систем.
-- **Autonomous Orchestration** — архитектуры координации агентов, инструментов и бизнес-процессов.
-- **Applied AI Methodologies** — преобразование исследовательских концепций в воспроизводимые методики и программные инструменты.
+- **AI Agent Trust & Evaluation** - методологии оценки доверия, предсказуемости и совместимости ИИ-агентов.
+- **Agent Architecture** - проектирование архитектур автономных систем и моделей поведения.
+- **Agent Governance** - подходы к контролю, проверяемости и управляемости ИИ-систем.
+- **Autonomous Orchestration** - архитектуры координации агентов, инструментов и бизнес-процессов.
+- **Applied AI Methodologies** - преобразование исследовательских концепций в воспроизводимые методики и программные инструменты.
 
 ---
 
@@ -102,13 +102,13 @@ An introduction to the Agenomics concept and its approach to evaluating autonomo
 
 My approach to AI systems is based on several principles:
 
-- **Measurability** — define explicit criteria instead of relying only on impressions.
-- **Predictability** — make expected behavior and limitations easier to understand.
-- **Transparency** — explain the reasoning behind assessments and system decisions where possible.
-- **Modularity** — separate concepts, evaluation methods, and implementation components.
-- **Practical applicability** — design methodologies that can evolve into tools, workflows, and real-world systems.
+- **Measurability** - define explicit criteria instead of relying only on impressions.
+- **Predictability** - make expected behavior and limitations easier to understand.
+- **Transparency** - explain the reasoning behind assessments and system decisions where possible.
+- **Modularity** - separate concepts, evaluation methods, and implementation components.
+- **Practical applicability** - design methodologies that can evolve into tools, workflows, and real-world systems.
 
-Мой принцип — не просто создавать ИИ-инструменты, а разрабатывать архитектуры и методологии, позволяющие системно описывать их поведение, оценивать ограничения и повышать управляемость.
+Мой принцип - не просто создавать ИИ-инструменты, а разрабатывать архитектуры и методологии, позволяющие системно описывать их поведение, оценивать ограничения и повышать управляемость.
 
 ---
 
